@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hoangvhuydev&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=quangBig&show_icons=true&theme=radical)
 
 A proactive and results-driven Full-Stack Developer specializing in building and optimizing high-performance E-commerce platforms and custom CRM systems. I'm passionate about solving complex problems with clean, efficient code and leveraging modern technologies to create exceptional user experiences.
 
