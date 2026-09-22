@@ -14,11 +14,8 @@ My focus is on developing and integrating **MES applications, industrial data sy
 
 I'm particularly interested in building systems that connect **Machines → PLC → MES → Database → Vision → HMI**, helping factories collect production data, monitor equipment, trace products, and automate inspection processes.
 
-📫 **Contact me at:** [quangbig204@gmail.com](mailto:quangbig204@gmail.com)
-🌐 **Facebook:** [quang.ai.632645](https://www.facebook.com/quang.ai.632645/)
-
+📫 **Contact me at:** [wuangbig204@gmail.com](mailto:ưuangbig204@gmail.com)
 ---
-
 ### 🏭 MES & Smart Factory
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square\&logo=csharp\&logoColor=white)
@@ -95,48 +92,3 @@ I'm particularly interested in building systems that connect **Machines → PLC 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 
 ---
-
-### 🚀 Current Focus
-
-```text
-MES Engineering
-Industrial Automation
-Computer Vision
-Machine Vision
-PLC Communication
-Smart Factory
-Production Traceability
-Equipment Integration
-Industrial Data Systems
-```
-
-### 🔗 System Architecture
-
-```text
-┌─────────────┐
-│    Camera   │
-└──────┬──────┘
-       │
-       ▼
-┌─────────────┐
-│ Vision / AVI │
-└──────┬──────┘
-       │ Inspection Result
-       ▼
-┌─────────────┐
-│     MES     │
-└──────┬──────┘
-       │
-       ├──────────────► SQL Server
-       │
-       ├──────────────► Production Tracking
-       │
-       └──────────────► Equipment / PLC
-                              │
-                              ▼
-                         ┌─────────┐
-                         │ Machine │
-                         └─────────┘
-```
-
-> **Building the connection between software and smart manufacturing.**
