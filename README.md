@@ -1,38 +1,142 @@
-
 <h1 align="center">Hi there, I'm Lê Quang Đại 👋</h1>
 
-<!-- GitHub Stats -->
+<p align="center">
+  <b>MES Engineer | Industrial Computer Vision | Automation</b>
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=quangBig&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-A proactive and results-driven Full-Stack Developer specializing in building and optimizing high-performance E-commerce platforms and custom CRM systems. I'm passionate about solving complex problems with clean, efficient code and leveraging modern technologies to create exceptional user experiences.
+I'm an **IT Engineer transitioning into Industrial Automation, MES, and Computer Vision**, with a strong interest in connecting software systems with manufacturing equipment.
 
-📫 **Contact me at:** quangbig204@gmail.com  
-🌐 [Website: My Website](facehttps://www.facebook.com/quang.ai.632645/)
+My focus is on developing and integrating **MES applications, industrial data systems, PLC communication, and machine vision solutions** for smart manufacturing environments.
+
+I'm particularly interested in building systems that connect **Machines → PLC → MES → Database → Vision → HMI**, helping factories collect production data, monitor equipment, trace products, and automate inspection processes.
+
+📫 **Contact me at:** [quangbig204@gmail.com](mailto:quangbig204@gmail.com)
+🌐 **Facebook:** [quang.ai.632645](https://www.facebook.com/quang.ai.632645/)
 
 ---
 
-### 🛠 My Skills & Technologies
+### 🏭 MES & Smart Factory
 
-#### Frontend  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square\&logo=csharp\&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square\&logo=microsoftsqlserver\&logoColor=white)
+![PLC](https://img.shields.io/badge/-PLC-333333?style=flat-square)
+![MES](https://img.shields.io/badge/-MES-0066CC?style=flat-square)
+![HMI](https://img.shields.io/badge/-HMI-FF6F00?style=flat-square)
+![Smart Factory](https://img.shields.io/badge/-Smart%20Factory-00897B?style=flat-square)
 
-#### Backend  
+* Manufacturing Execution System (MES)
+* Production Tracking & Traceability
+* Equipment / Machine Management
+* Work Order Management
+* OEE & Production Monitoring
+* Production Data Collection
+* SQL Server Database
+* PLC ↔ MES Communication
+* Equipment Integration
+* HMI & Factory Monitoring
+* Smart Factory Systems
 
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+---
 
+### 👁️ Industrial Computer Vision
 
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
+![Cognex](https://img.shields.io/badge/-Cognex-0066A1?style=flat-square)
+![Aurora Vision](https://img.shields.io/badge/-Aurora%20Vision-444444?style=flat-square)
+![YOLO](https://img.shields.io/badge/-YOLO-111111?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square\&logo=csharp\&logoColor=white)
 
-#### Tools & Project Management  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+* Industrial Machine Vision
+* Automated Visual Inspection (AVI)
+* Image Processing
+* Object Detection
+* Defect Detection
+* ROI & Image Alignment
+* Camera / Vision System Integration
+* OCR / Barcode / QR Code
+* OpenCV
+* YOLO
+* Cognex
+* Aurora Vision
+* Vision ↔ MES Integration
+
+---
+
+### 💻 Software Development
+
+#### Backend
+
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square\&logo=csharp\&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=flat-square)
+
+#### Database
+
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square\&logo=microsoftsqlserver\&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+
+---
+
+### 🔧 Tools & Technologies
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square\&logo=swagger\&logoColor=black)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square\&logo=visualstudio\&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+
+---
+
+### 🚀 Current Focus
+
+```text
+MES Engineering
+Industrial Automation
+Computer Vision
+Machine Vision
+PLC Communication
+Smart Factory
+Production Traceability
+Equipment Integration
+Industrial Data Systems
+```
+
+### 🔗 System Architecture
+
+```text
+┌─────────────┐
+│    Camera   │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐
+│ Vision / AVI │
+└──────┬──────┘
+       │ Inspection Result
+       ▼
+┌─────────────┐
+│     MES     │
+└──────┬──────┘
+       │
+       ├──────────────► SQL Server
+       │
+       ├──────────────► Production Tracking
+       │
+       └──────────────► Equipment / PLC
+                              │
+                              ▼
+                         ┌─────────┐
+                         │ Machine │
+                         └─────────┘
+```
+
+> **Building the connection between software and smart manufacturing.**
