@@ -4,10 +4,6 @@
   <b>MES Engineer | Industrial Computer Vision | Automation</b>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quangBig&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
 I'm an **IT Engineer transitioning into Industrial Automation, MES, and Computer Vision**, with a strong interest in connecting software systems with manufacturing equipment.
 
 My focus is on developing and integrating **MES applications, industrial data systems, PLC communication, and machine vision solutions** for smart manufacturing environments.
