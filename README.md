@@ -19,7 +19,6 @@ I'm particularly interested in building systems that connect **Machines → PLC 
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square\&logo=microsoftsqlserver\&logoColor=white)
 ![PLC](https://img.shields.io/badge/-PLC-333333?style=flat-square)
 ![MES](https://img.shields.io/badge/-MES-0066CC?style=flat-square)
-![HMI](https://img.shields.io/badge/-HMI-FF6F00?style=flat-square)
 ![Smart Factory](https://img.shields.io/badge/-Smart%20Factory-00897B?style=flat-square)
 
 * Manufacturing Execution System (MES)
